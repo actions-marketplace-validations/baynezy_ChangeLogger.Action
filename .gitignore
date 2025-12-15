@@ -98,6 +98,10 @@ fabric.properties
 
 # Cake Tools
 .cake-tools/
+.tools/
 
 # Test Results
 TestResults
+
+# .NET Tools
+dotnet-tools.json
